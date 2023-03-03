@@ -1,3 +1,3 @@
 # testing-app-node-ts
 
-Little app of NodeJs, typescrypt with minimal implementation of Jest for UnitTest.
+Little app of NodeJS, TypeScript with a simple implementation of Jest for UnitTest.
